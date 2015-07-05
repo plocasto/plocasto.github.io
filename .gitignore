@@ -1,4 +1,6 @@
 _site
 _drafts
-Gemfile*.*
+Gemfile
+Gemfile.lock
 CNAME
+LICENSE
