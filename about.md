@@ -4,8 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-`Many of our activities are like housekeeping in a dream. Delirious with fever, one does not recognize the fever.`
--Patrul Rinpoche
+`Many of our activities are like housekeeping in a dream. Delirious with fever, one does not recognize the fever. -Patrul Rinpoche`
 
 As perhaps part and parcel of the modern era, I continually find myself with an increasingly number of things to do and less time to think. 
 
